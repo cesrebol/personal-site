@@ -20,19 +20,12 @@ Thanks for stopping by! And since this is my person site repo, this is a living 
 
 ## Features
 
-List the main features or functionalities of your personal site. This can include things like:
-
 - Project showcase
 - Resume/CV display
 - Contact form
 - Blog or articles
-- Responsive design
-
-Feel free to tailor the list to match the specific features of your site.
 
 ## Installation
-
-Provide instructions on how to install and set up your personal site locally. Include any dependencies or prerequisites that need to be installed. For example:
 
 1. Clone the repository:
    ```bash
