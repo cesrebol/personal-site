@@ -1,6 +1,6 @@
 body {
-    background-color:#1B1B1B;
-    color: #D2691E;
+    background-color:#0A100D;
+    color: #D6D5C9;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
@@ -9,13 +9,13 @@ header {
     font-weight: 200;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:40px;
-    color:#D2691E;
+    color:#C3A995;
     text-align: center;
 }
 
 p {
     text-align: center;
-    color: whitesmoke;
+    color: #D6D5C9;
 }
 
 a {
