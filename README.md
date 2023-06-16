@@ -1,4 +1,4 @@
-i# Personal Site
+# Personal Site
 
 Welcome to my personal site repository! This site serves as my online portfolio and showcases my projects, skills, and experiences.
 
@@ -13,7 +13,10 @@ Welcome to my personal site repository! This site serves as my online portfolio 
 
 ## About
 
-In this section, provide a brief introduction to your personal site. Explain its purpose and the technologies or frameworks you used to build it. You can also mention any goals or objectives you had in mind while creating the site.
+Hello there. My name is Cesar Rebolledo. I am a software enginner. Since I can remember I always enjoyed tinkering with technology. Lately my passion has been taking older hardware and installing linux. Poke around and feel free to reach out to me at rebolledoces@gmail.com.
+
+Thanks for stopping by! And since this is my person site repo, this is a living document. 
+
 
 ## Features
 
