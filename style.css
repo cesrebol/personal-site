@@ -1,6 +1,6 @@
 body {
-    background-color:#0A100D;
-    color: #D6D5C9;
+    background-color:#FFFFFF;
+    color: #000000;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
 }
@@ -9,21 +9,16 @@ header {
     font-weight: 200;
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size:40px;
-    color:#C3A995;
+    color: #000000;
     text-align: center;
 }
 
 p {
     text-align: center;
-    color: #D6D5C9;
+    color: #000000;
 }
 
 a {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 20px;
-}
-
-li {
-    text-align: center;
-    list-style-type: none;
 }
