@@ -6,7 +6,6 @@ Welcome to my personal site repository! This site serves as my online portfolio 
 
 - [About](#about)
 - [Features](#features)
-- [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
