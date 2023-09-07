@@ -29,3 +29,5 @@ Thanks for stopping by! And since this is my person site repo, this is a living 
 1. Clone the repository:
    ```bash
    git clone https://github.com/cesrebol/personal-site.git
+
+### Made changes to index.html 
